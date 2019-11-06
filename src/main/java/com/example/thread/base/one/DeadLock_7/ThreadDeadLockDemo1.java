@@ -1,4 +1,4 @@
-package com.example.thread.base.DeadLock_7;
+package com.example.thread.base.one.DeadLock_7;
 
 /**
  * @author ZhangNan

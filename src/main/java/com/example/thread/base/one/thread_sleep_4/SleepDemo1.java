@@ -1,4 +1,4 @@
-package com.example.thread.base.thread_sleep_4;
+package com.example.thread.base.one.thread_sleep_4;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,4 +1,4 @@
-package com.example.thread.base.thread_wait_2;
+package com.example.thread.base.one.thread_wait_2;
 
 /**
  * @author ZhangNan

@@ -1,4 +1,4 @@
-package com.example.thread.base.thread_join_3;
+package com.example.thread.base.one.thread_join_3;
 
 /**
  * @author ZhangNan

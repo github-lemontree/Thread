@@ -1,4 +1,4 @@
-package com.example.thread.base.thread_yield_5;
+package com.example.thread.base.one.thread_yield_5;
 
 /**
  * @author ZhangNan

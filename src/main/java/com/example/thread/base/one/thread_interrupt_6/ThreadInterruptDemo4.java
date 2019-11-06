@@ -1,4 +1,4 @@
-package com.example.thread.base.thread_interrupt_6;
+package com.example.thread.base.one.thread_interrupt_6;
 
 /**
  * @author ZhangNan
